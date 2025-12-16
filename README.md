@@ -1,10 +1,5 @@
 📧 AI-Powered Cold Email Generator
 
-
-
-
-
-
 An AI-based application that generates professional and personalized cold emails using NLP.
 Designed as an academic project for college submission under SPPU.
 
@@ -53,6 +48,7 @@ Plotly
 Pickle
 
 📁 Project Structure
+
 app.py – Streamlit web app
 
 train_model.py – Email generation logic
@@ -70,6 +66,7 @@ email_generator_model_metadata.json – Model details
 requirements.txt – Project dependencies
 
 ▶️ How to Run
+
 pip install -r requirements.txt
 streamlit run app.py
 
