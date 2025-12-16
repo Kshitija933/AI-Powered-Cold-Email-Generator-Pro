@@ -9,6 +9,7 @@ Writing cold emails manually is time-consuming and repetitive.
 This project automates email generation by using template-based NLP logic with personalization features like tone, industry, and recipient details.
 It also includes an analytics dashboard for email insights.
 
+
 ✨ Key Features
 
 Automated cold email generation
@@ -23,6 +24,7 @@ Analytics dashboard (word count, tone & industry stats)
 
 Model saving using Pickle
 
+
 🧠 Methodology (Brief)
 
 Synthetic dataset generation using Python
@@ -32,6 +34,7 @@ Text preprocessing and validation
 Template-based NLP email generation
 
 Visualization using Plotly
+
 
 🛠️ Tech Stack
 
@@ -46,6 +49,7 @@ Scikit-learn
 Plotly
 
 Pickle
+
 
 📁 Project Structure
 ├── app.py
@@ -62,9 +66,11 @@ Pickle
 
 ├── README.md
 
+
 ▶️ How to Run
 pip install -r requirements.txt
 streamlit run app.py
+
 
 📊 Results
 
@@ -74,6 +80,7 @@ Covers 10 industries & multiple tones
 
 High personalization & readability
 
+
 🎓 Academic Information
 
 Course: B.Sc. Data Science
@@ -82,9 +89,11 @@ University: Savitribai Phule Pune University (SPPU)
 
 Project Type: AI / NLP Based Mini-Project
 
+
 👩‍💻 Author
 
 Kshitija Karpe
+
 
 📚 References
 
