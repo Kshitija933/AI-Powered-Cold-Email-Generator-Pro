@@ -52,6 +52,7 @@ Pickle
 
 
 📁 Project Structure
+
 ├── app.py
 
 ├── train_model.py
