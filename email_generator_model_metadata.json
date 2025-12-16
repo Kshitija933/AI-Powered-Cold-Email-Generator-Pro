@@ -1,0 +1,72 @@
+{
+  "training_metadata": {
+    "trained_at": "2025-11-16T18:45:55.519126",
+    "training_samples": 50,
+    "training_time_seconds": 3.030407,
+    "version": "2.0_advanced",
+    "features_count": 500
+  },
+  "performance_metrics": {
+    "dataset_quality": {
+      "total_samples": 50,
+      "avg_length": 662.06,
+      "std_length": 38.73163027389203,
+      "avg_readability": 100.0,
+      "avg_unique_ratio": 0.857141532102788
+    },
+    "structure_quality": {
+      "cta_coverage": 82.0,
+      "greeting_coverage": 100.0,
+      "closing_coverage": 70.0
+    },
+    "content_quality": {
+      "avg_positive_ratio": 0.012091778497943805,
+      "avg_professional_ratio": 0.004719856066449,
+      "avg_question_count": 1.2
+    },
+    "diversity_metrics": {
+      "unique_tones": 5,
+      "unique_structures": 8,
+      "unique_industries": 10,
+      "tone_balance": {
+        "friendly": 16,
+        "professional": 14,
+        "consultative": 9,
+        "creative": 6,
+        "technical": 5
+      }
+    }
+  },
+  "model_capabilities": {
+    "templates": 83,
+    "tones": [
+      "consultative",
+      "professional",
+      "friendly",
+      "creative",
+      "technical"
+    ],
+    "industries": [
+      "SaaS",
+      "Education",
+      "Marketing",
+      "Retail",
+      "Real Estate",
+      "Manufacturing",
+      "Healthcare",
+      "Finance",
+      "Technology",
+      "Logistics"
+    ],
+    "structures": [
+      "question_based",
+      "urgency_based",
+      "personalized_insight",
+      "social_proof",
+      "problem_solution",
+      "storytelling",
+      "comparison",
+      "data_driven"
+    ]
+  }
+}
